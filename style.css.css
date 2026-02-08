@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+header, section, footer {
+  background:lightgrey;
+  margin: 20px auto;
+  padding: 20px;
+  width: 80%;
+  border-radius: 8px;
+}
+header {
+  text-align: center;
+  background:black;
+  color: white;
+}
+header h1 {
+  margin-bottom: 5px;
+}
+h2 {
+  color: #333;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+ul {
+  padding-left: 20px;
+}
+li {
+  margin: 6px 0;
+}
+footer {
+  text-align:center;
+}
+.contact {
+  text-align: center;
+  margin: 40px auto;
+}
